@@ -1,0 +1,20 @@
+.post {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 4px 4px 8px grey;
+}
+
+.post-title {
+  font-size: 30px;
+  font-weight: 700px;
+}
+
+.font-description {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.create {
+  float: inline-end;
+}
